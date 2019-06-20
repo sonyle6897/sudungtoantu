@@ -1,4 +1,4 @@
-var width = prompt("Nhap vao Width: ");
-var height = prompt("Nhap vao Height: ");
-var area = width * height;
+let width = prompt("Nhap vao Width: ");
+let height = prompt("Nhap vao Height: ");
+let area = width * height;
 document.write('Area = ' + area);
